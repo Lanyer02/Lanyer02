@@ -5,8 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="[https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2M4NXdiZTlkYXJ1eWpubnRhM3c0OHZkYW4xMmo3cmg2dzB0amtxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/McmEgVHMekWQ/giphy.gif)
-"/>
+ <div class="tenor-gif-embed" data-postid="26885105" data-share-method="host" data-aspect-ratio="1.68421" data-width="100%"><a href="https://tenor.com/view/monkey-buisness-gif-26885105">Monkey Buisness GIF</a>from <a href="https://tenor.com/search/monkey+buisness-gifs">Monkey Buisness GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 ###
