@@ -4,9 +4,7 @@
 
 <br clear="both">
 
-<div align="center">
- <div class="tenor-gif-embed" data-postid="26885105" data-share-method="host" data-aspect-ratio="1.68421" data-width="100%"><a href="https://tenor.com/view/monkey-buisness-gif-26885105">Monkey Buisness GIF</a>from <a href="https://tenor.com/search/monkey+buisness-gifs">Monkey Buisness GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
+<div class="tenor-gif-embed" data-postid="26885105" data-share-method="host" data-aspect-ratio="1.68421" data-width="100%"><a href="https://tenor.com/view/monkey-buisness-gif-26885105">Monkey Buisness GIF</a>from <a href="https://tenor.com/search/monkey+buisness-gifs">Monkey Buisness GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
